@@ -14,6 +14,8 @@
     "eslint-config-prettier": "^9.1.0",
     "globals": "^15.1.0",
     "prettier": "^3.2.5",
-    "vite": "^5.1.6"
+    "vite": "^5.1.6",
+    "@fontsource/lato": "^5.0.21",
+    "boxicons": "^2.1.4"
   }
 }
