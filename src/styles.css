@@ -295,6 +295,11 @@ button {
   margin-top: 0.5rem;
 }
 
+.home__img {
+  display: flex;
+  justify-content: center;
+}
+
 .home__scroll {
   position: absolute;
   width: 6.25rem;
@@ -897,6 +902,10 @@ button {
   .home__content {
     margin: 0 0 0 auto;
     padding-right: 1rem;
+  }
+
+  .home__img {
+    display: block;
   }
 
   .home__img img {
